@@ -1,13 +1,13 @@
 <!--- lamprosch/lamprosch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
 
 <p>
-	<h1 align="center"><b>Hello World, I'm Lampros 👋👨‍💻</h1>
+	<h1 align="center"><b>Hello World, I'm Lampros 👨‍💻</h1>
 </p>
 
 <br/>
 
 <p>
-	Electrical & Computer Engineer from Patras GR, mainly oriented to signal processing and audio algorithms. My basic tools are C/C++, through JUCE Framework, and MATLAB.
+	Electrical & Computer Engineer from Patras GR, mainly oriented to signal processing and audio algorithms. My basic tools are C/C++, C# and Python.
 </p>
 
 <br/>
@@ -23,8 +23,8 @@
 <br/>
 <h3>Facts & Info</h3>
 
-- 📌 Currently based in Copenhagen, DK.
-- 👀 I’m interested in Audio Technology, Music & Football Tactics.
+- 📌 Currently based in Barcelona, ES.
+- 👀 I’m interested in Audio Technology, DSP and Music.
 - 🌱 I’m currently learning Acoustics and Development of Audio Algorithms.
 - 🎓 Studied Electrical & Computer Engineering at University of Patras.
 - 🎸 Playing the guitar.
@@ -52,7 +52,6 @@
 	&nbsp;
 	&nbsp;
 	&nbsp;
-	<a href="<a href="https://www.linkedin.com/in/lampros-chantzis-180a70196/" target="_blank"><img src="Icons/icons8-linkedin-48.png" alt="LinkedIn" width="40" height="40"/> </a>
 </p>
 
 <br/>
