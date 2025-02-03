@@ -1,9 +1,9 @@
 <!--- lamprosch/lamprosch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
-<h1 align="center"><b>Hello, I'm Lampros 👨‍💻</b></h1>
+<h1 align="center"><b>Hello world!</b></h1>
 
 
 <p align="center">
-  <i>Electrical & Computer Engineer | Signal Processing Enthusiast | Audio Algorithms Developer</i>
+  <i>Electrical & Computer Engineer | Sound Engineer | Audio Algorithms Developer</i>
 </p>
 
 ---
