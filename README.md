@@ -1,112 +1,83 @@
 <!--- lamprosch/lamprosch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+<h1 align="center"><b>Hello world, I'm Lampros! 🙌</b></h1>
 
-<p>
-	<h1 align="center"><b>Hello World, I'm Lampros 👨‍💻</h1>
-</p>
-
-<br/>
-
-<p>
-	Electrical & Computer Engineer from Patras GR, mainly oriented to signal processing and audio algorithms. My basic tools are C/C++, C# and Python.
-</p>
-
-<br/>
-
-<h2 align="center">About me 👨‍🦱</h2>
-<h3>Short Bio</h3>
-
-<p>I was born and raised in Patras, Greece. I always had a curiosity about how things work so I decided to become an engineer. In my curriculum I had courses like
-	"Electroacoustics", "Digital Audio Technology", "Signals & Systems" and "Functional Programming", so I got obbsesed with Programming and Audio Technology. I also enjoy
-	creating oldskool games and graphics in the terminal Currently, I am trying to extend my knowledge on these fields and to be occupied in this industry. I have already 
-	developed two audio GUI apps and work on them on a daily basis and my long-term goal is to create my own collection of tools for audio engineers. 😊</p>
-	
-<br/>
-<h3>Facts & Info</h3>
-
-- 📌 Currently based in Barcelona, ES.
-- 👀 I’m interested in Audio Technology, DSP and Music.
-- 🌱 I’m currently learning Acoustics and Development of Audio Algorithms.
-- 🎓 Studied Electrical & Computer Engineering at University of Patras.
-- 🎸 Playing the guitar.
-- 🎧 Favourite Music: <em>Radiohead, DIIV, Elliott Smith, Car Seat Headrest, Sonic Youth, Led Zeppelin, Pixies.</em>
-
-<br/>
-
-<h3>Connect</h3>
-<p><b>You can find me in social media if you want to say hi. I'll be happy to meet you!</b>
-	<img align="right" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"></p>
-<p aligh="center">
-	<a href="<a href="https://t.me/lampros_ch" target="_blank"> <img src="Icons/icons8-telegram-app-48.png" alt="Telegram" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	<a href="<a href="https://www.instagram.com/lampros_ch/" target="_blank"> <img src="Icons/icons8-instagram-48.png" alt="Instagram" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	<a href="<a href="https://stackoverflow.com/users/12999624/lampros-chantzis" target="_blank"> <img src="Icons/icons8-stack-overflow-48.png" alt="Stack Overflow" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	<a href="<a href="https://open.spotify.com/user/lampros_ch?si=baf5faf98d7d4941" target="_blank"> <img src="Icons/icons8-spotify-48.png" alt="Spotify" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	&nbsp;
-</p>
-
-<br/>
-<br/>
-
-<h2 align="center"> Skills & Tools 🖥️</h2>
-<br/>
 
 <p align="center">
-	<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="Icons/icons8-c-programming-48.png" alt="C" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="Icons/icons8-c++-48.png" alt="C++" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"> <img src="Icons/icons8-python-48.png" alt="Python" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	<a href="https://en.wikipedia.org/wiki/MATLAB" target="_blank"> <img src="Icons/icons8-matlab-48.png" alt="MATLAB" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img src="Icons/icons8-html-5-48.png" alt="HTML5" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="Icons/icons8-css3-48.png" alt="CSS3" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> <img src="Icons/icons8-javascript-48.png" alt="JavaScript" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	<a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"> <img src="Icons/icons8-mysql-logo-48.png" alt="MySQL" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	<a href="https://en.wikipedia.org/wiki/Microsoft_Azure" target="_blank"> <img src="Icons/icons8-azure-48.png" alt="Azure" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	<a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"> <img src="Icons/icons8-visual-studio-code-2019-48.png" alt="Visual Studio Code" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	<a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio" target="_blank"> <img src="Icons/icons8-visual-studio-2019-48.png" alt="Visual Studio" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"> <img src="Icons/icons8-github-48.png" alt="GitHub" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-	<a href="https://en.wikipedia.org/wiki/Figma_(software)" target="_blank"> <img src="Icons/icons8-figma-48.png" alt="Figma" width="40" height="40"/> </a>
-	&nbsp;
-	&nbsp;
-</p>
-
-<br/>
-	<h2 align="center">Stats 📊</h2>
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=lamprosch&theme=radical&show_icons=true" width="450"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamprosch&layout=compact&theme=radical" width="400" />
+  <i>Electrical & Computer Engineer | Sound Engineer | Audio Algorithms Developer</i>
 </p>
 
 ---
+
+<h3 align="center">About Me</h3>
+
+<p align="center">
+  Born and raised in Greece, always felt like life could use a bit more modulation and a touch of analog warmth. By day, atm located in Barcelona, I am crafting audio applications with the precision of a perfectly tuned Fourier transform. But when the moon rises, you'll find me building modular synthesizers, lost in a chaos of cables and vintage knobs. I'm the kind of guy who finds solace in the hiss of an old-school radio station and the hum of an analog circuit. In the wild world of audio, I've explored upmixing algorithms and 3D audio landscapes. And when the urge strikes, I switch gears to become a guitar-strumming, vinyl-spinning DJ, because why not mix a little art with all that engineering?<br><br>Consider this profile your backstage pass to the harmonious mess that is my life. 
+</p>
+
+---
+
+<h3 align="center">Technologies & Programming Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-282C34?logo=c&logoColor=5868BC" alt="C logo" title="C" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/-282C34?logo=cplusplus&logoColor=6193CA" alt="C++ logo" title="C++" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=4AA248" alt="MongoDB logo" title="MongoDB" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=fED341" alt="Python logo" title="Python" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E86126" alt="HTML logo" title="HTML" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=25A2dA" alt="CSS logo" title="CSS" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/Javascript-282C34?logo=javascript&logoColor=E8D34B" alt="Javascript logo" title="Javascript" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=eb6e1e" alt="Ubuntu logo" title="Ubuntu" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/Numpy-282C34?logo=numpy&logoColor=4aa5c8" alt="Numpy logo" title="Numpy" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=eb7225" alt="Jupyter logo" title="Jupyter" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/JUCE-282C34?logo=juce&logoColor=63ac40" alt="Juce logo" title="Juce" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/Audacity-282C34?logo=audacity&logoColor=3478f0" alt="Audacity logo" title="Audacity" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/Pro_Tools-282C34?logo=protools&logoColor=7123ed" alt="Pro Tools logo" title="Pro Tools" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/Processing-282C34?logo=processingfoundation&logoColor=006093" alt="Processing logo" title="Processing" height="25" /> &nbsp;
+  <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=018CE0" alt="Docker logo" title="Docker" height="25" /> &nbsp;
+</p>
+
+---
+
+<h3 align="center">Connect with Me</h3>
+
+<p align="center">
+  <!-- Apple Music -->
+  <a href="https://music.apple.com/profile/lampros_ch" style="display: inline-block; text-decoration: none;">
+  	<img src="https://img.shields.io/badge/Apple_Music-282C34?logo=apple music&logoColor=f1455c" alt="Apple Music logo" title="Apple Music" height="25" />&#8203;
+  </a>&nbsp;
+  <!-- Letterboxd -->
+  <a href="https://letterboxd.com/lampros_ch">
+    <img src="https://img.shields.io/badge/Letterboxd-282C34?logo=letterboxd&logoColor=82c3f5" alt="Letterboxd logo" title="Letterboxd" height="25" />&#8203;
+  </a>&nbsp;
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/22833713/lampros-chantzis">
+    <img src="https://img.shields.io/badge/Stack_Overflow-282C34?logo=stack overflow&logoColor=e97a20" alt="Stack Overflow logo" title="Stack Overflow" height="25" />&#8203;
+  </a>&nbsp;
+  <!-- Reddit -->
+  <a href="https://www.reddit.com/user/lampros_chan/">
+    <img src="https://img.shields.io/badge/Reddit-282C34?logo=reddit&logoColor=f34000" alt="Reddit logo" title="Reddit" height="25" />&#8203;
+  </a>&nbsp;
+  <!-- Chess.com -->
+  <a href="https://www.chess.com/member/lampros_ch">
+    <img src="https://img.shields.io/badge/Chess.com-282C34?logo=chess.com&logoColor=68973e" alt="Chess.com logo" title="Chess.com" height="25" />&#8203;
+  </a>&nbsp;
+  <!-- Goodreads -->
+  <a href="https://www.goodreads.com/user/show/164347192-lampros-chantzis">
+    <img src="https://img.shields.io/badge/Goodreads-282C34?logo=goodreads&logoColor=e4e2cd" alt="Goodreads logo" title="Goodreads" height="25" />&#8203;
+  </a>&nbsp;
+</p>
+
+---
+
+<h3 align="center">Stats</h3>
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/?username=lamprosch&count_private=true&theme=rose_pine&show_icons=true" style="width: 450px; margin-bottom: 20px;">
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamprosch&langs_count=5&theme=rose_pine" style="width: 450px;">
+</div>
+
+
+
+
+
