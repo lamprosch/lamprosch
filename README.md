@@ -42,19 +42,29 @@
 
 <p align="center">
   <!-- Apple Music -->
-  <a href="https://music.apple.com/profile/lampros_ch">
-  	<img src="https://img.shields.io/badge/Apple_Music-282C34?logo=apple music&logoColor=f1455c" alt="Apple Music logo" title="Apple Music" height="25" />
-  </a>
+  <a href="https://music.apple.com/profile/lampros_ch" style="display: inline-block; text-decoration: none;">
+  	<img src="https://img.shields.io/badge/Apple_Music-282C34?logo=apple music&logoColor=f1455c" alt="Apple Music logo" title="Apple Music" height="25" />&#8203;
+  </a>&nbsp;
   <!-- Letterboxd -->
-  <img src="https://img.shields.io/badge/Letterboxd-282C34?logo=letterboxd&logoColor=82c3f5" alt="Letterboxd logo" title="Letterboxd" height="25" /> &nbsp;
+  <a href="https://letterboxd.com/lampros_ch">
+    <img src="https://img.shields.io/badge/Letterboxd-282C34?logo=letterboxd&logoColor=82c3f5" alt="Letterboxd logo" title="Letterboxd" height="25" />&#8203;
+  </a>&nbsp;
   <!-- Stack Overflow -->
-  <img src="https://img.shields.io/badge/Stack_Overflow-282C34?logo=stack overflow&logoColor=e97a20" alt="Stack Overflow logo" title="Stack Overflow" height="25" /> &nbsp;
+  <a href="https://stackoverflow.com/users/22833713/lampros-chantzis">
+    <img src="https://img.shields.io/badge/Stack_Overflow-282C34?logo=stack overflow&logoColor=e97a20" alt="Stack Overflow logo" title="Stack Overflow" height="25" />&#8203;
+  </a>&nbsp;
   <!-- Reddit -->
-  <img src="https://img.shields.io/badge/Reddit-282C34?logo=reddit&logoColor=f34000" alt="Reddit logo" title="Reddit" height="25" /> &nbsp;
+  <a href="https://www.reddit.com/user/lampros_chan/">
+    <img src="https://img.shields.io/badge/Reddit-282C34?logo=reddit&logoColor=f34000" alt="Reddit logo" title="Reddit" height="25" />&#8203;
+  </a>&nbsp;
   <!-- Chess.com -->
-  <img src="https://img.shields.io/badge/Chess.com-282C34?logo=chess.com&logoColor=68973e" alt="Chess.com logo" title="Chess.com" height="25" /> &nbsp;
+  <a href="https://www.chess.com/member/lampros_ch">
+    <img src="https://img.shields.io/badge/Chess.com-282C34?logo=chess.com&logoColor=68973e" alt="Chess.com logo" title="Chess.com" height="25" />&#8203;
+  </a>&nbsp;
   <!-- Goodreads -->
-  <img src="https://img.shields.io/badge/Goodreads-282C34?logo=goodreads&logoColor=e4e2cd" alt="Goodreads logo" title="Goodreads" height="25" /> &nbsp;
+  <a href="https://www.goodreads.com/user/show/164347192-lampros-chantzis">
+    <img src="https://img.shields.io/badge/Goodreads-282C34?logo=goodreads&logoColor=e4e2cd" alt="Goodreads logo" title="Goodreads" height="25" />&#8203;
+  </a>&nbsp;
 </p>
 
 ---
