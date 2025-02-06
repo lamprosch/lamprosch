@@ -11,7 +11,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  Born and raised in Greece, always felt like life could use a bit more modulation and a touch of analog warmth. By day, atm located in Barcelona, I am crafting audio applications with the precision of a perfectly tuned Fourier transform. But when the moon rises, you'll find me building modular synthesizers, lost in a chaos of cables and vintage knobs. I'm the kind of guy who finds solace in the hiss of an old-school radio station and the hum of an analog circuit. In the wild world of audio, I've explored upmixing algorithms and 3D audio landscapes. And when the urge strikes, I switch gears to become a guitar-strumming, vinyl-spinning DJ, because why not mix a little art with all that engineering?<br><br>Consider this profile your backstage pass to the harmonious mess that is my life. 
+  Born and raised in Greece, always felt like life could use a bit more modulation and a touch of analog warmth. By day, currently located in Barcelona, I am crafting audio applications with the precision of a perfectly tuned Fourier transform. But when the moon rises, you'll find me building modular synthesizers, lost in a chaos of cables and vintage knobs. I'm the kind of guy who finds solace in the hiss of an old-school radio station and the hum of an analog circuit. In the wild world of audio, I've explored upmixing algorithms and 3D audio landscapes. And when the urge strikes, I switch gears to become a guitar-strumming, vinyl-spinning DJ, because why not mix a little art with all that engineering?<br><br>Consider this profile your backstage pass to the harmonious mess that is my life. 
 </p>
 
 ---
