@@ -72,8 +72,8 @@
 <h3 align="center">Stats</h3>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/?username=lamprosch&count_private=true&theme=rose_pine&show_icons=true" style="width: 400px; margin-bottom: 20px;">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamprosch&langs_count=5&theme=rose_pine" style="width: 400px;">
+  <img src="https://github-readme-stats.vercel.app/api/?username=lamprosch&count_private=true&theme=transparent&show_icons=true" style="height: 160px; margin-bottom: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamprosch&langs_count=5&theme=transparent" style="height: 160px;">
 </div>
 
 
