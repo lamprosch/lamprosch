@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <i>Electrical & Computer Engineer | Sound Engineer | Audio Algorithms Developer</i>
+  <i>Electrical & Computer Engineer | Acoustics | Audio Algorithms Developer</i>
 </p>
 
 ---
