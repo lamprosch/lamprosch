@@ -43,7 +43,7 @@
 <p align="center">
   <!-- Apple Music -->
   <a href="https://music.apple.com/profile/lampros_ch" style="display: inline-block; text-decoration: none;">
-  	<img src="https://img.shields.io/badge/Apple_Music-282C34?logo=apple music&logoColor=f1455c" alt="Apple Music logo" title="Apple Music" height="25" />&#8203;
+  	<img src="https://img.shields.io/badge/Apple_Music-282C34?logo=applemusic&logoColor=f1455c" alt="Apple Music logo" title="Apple Music" height="25" />&#8203;
   </a>&nbsp;
   <!-- Letterboxd -->
   <a href="https://letterboxd.com/lampros_ch">
@@ -51,7 +51,7 @@
   </a>&nbsp;
   <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/22833713/lampros-chantzis">
-    <img src="https://img.shields.io/badge/Stack_Overflow-282C34?logo=stack overflow&logoColor=e97a20" alt="Stack Overflow logo" title="Stack Overflow" height="25" />&#8203;
+    <img src="https://img.shields.io/badge/Stack_Overflow-282C34?logo=stackoverflow&logoColor=e97a20" alt="Stack Overflow logo" title="Stack Overflow" height="25" />&#8203;
   </a>&nbsp;
   <!-- Reddit -->
   <a href="https://www.reddit.com/user/lampros_chan/">
@@ -75,6 +75,7 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=lamprosch&count_private=true&theme=transparent&show_icons=true" style="height: 160px; margin-bottom: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamprosch&langs_count=5&theme=transparent" style="height: 160px;">
 </div>
+
 
 
 
